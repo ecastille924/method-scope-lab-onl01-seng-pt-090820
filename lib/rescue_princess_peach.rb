@@ -1,5 +1,5 @@
 def 
-   = "rescued"
+   status = "rescued"
    "Hooray! Mario has rescued Princess Peach."
 end
 
